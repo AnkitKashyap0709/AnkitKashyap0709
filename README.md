@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Ankit Kumar, a computer science graduate.<br><br>Enthusiastic about machine learning and data science.<br><br>- 🔭 I’m currently working on Machine learning and data analysis projects.<br>- 💬 Ask me about: art, technology.<br>- 📫 How to reach me: kashyapa585@gmail.com<br>- 😄 Pronouns: Ankkash
+#### I'm Ankit Kumar, a 2023 computer science graduate.<br><br>Enthusiastic about Artificial Intelligence, Data Analysis and Data Science.<br><br>- 🔭 I’m currently working on Machine learning and data analysis projects.<br>- 💬 Ask me about: art, technology.<br>- 📫 How to reach me: kashyapa585@gmail.com<br>- 😄 Pronouns: Ankkash
 
 
 ### 🌐 Socials:
